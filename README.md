@@ -35,6 +35,7 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [Cybersecurity Summit](https://cybersecuritysummit.com/summit/nashville24/) | Apr 5, 2024 | Nashville :us: | [@CyberSummitUSA](https://twitter.com/CyberSummitUSA) | Y
 | [UniCon](https://scythe.io/unicon24) | Apr 9, 2024 | Virtual :computer: | [@scythe_io](https://twitter.com/scythe_io) | Y
 | [FS-ISAC: FinCyber Today Canada](https://www.fsisac.com/events/2024-canada) | Apr 11, 2024 | Toronto (ON) :canada: | [@FSISAC](https://twitter.com/FSISAC) | N
+| [WiCyS: Women in CyberSecurity](https://www.wicys.org/events/wicys-2024/) | Apr 11-13, 2024 | Nashville (TN) :us: | [@WiCySorg](https://twitter.com/WiCySorg) | N
 | [FIRST Cyber Threat Intelligence Conference](https://www.first.org/conference/firstcti24/) | Apr 15-17, 2023 | Berlin :de: | [@firstdotorg@infosec.exchange](https://infosec.exchange/@firstdotorg) | N
 | [BSidesKC](https://bsideskc.org) | Apr 20, 2024 | Kansas City (MO) :us: | [@bsideskc@infosec.exchange](https://infosec.exchange/@bsideskc) | N
 | [Insomni'hack](https://insomnihack.ch/) | Apr 22-26, 2024 | Lausanne :switzerland: | [@1ns0mn1h4ck](https://twitter.com/1ns0mn1h4ck) | N
@@ -76,5 +77,6 @@ List of past and future {cyber,info}sec related events. Freel free to contribute
 | [FS-ISAC: Americas Fall Summit](https://www.fsisac.com/events/2024-americas-fall) | Oct 27-30, 2024 | Atlanta (GA) :us: | [@FSISAC](https://twitter.com/FSISAC) | N
 | [Virus Bulletin Conference](https://www.virusbulletin.com/conference/) | Nov 2-4, 2024 | Dublin :ireland: | [@VirusBulletin@infosec.exchange](https://infosec.exchange/@VirusBulletin) | N
 | [Unlock your Brain, Harden your System](https://unlockyourbrain.bzh/) | Nov 8-9, 2024 | Brest :fr: | [@UYBHYS](https://twitter.com/UYBHYS)| N
+| [SuriCon](https://www.suricon.net) | Nov 13-15, 2024 | Madrid :es: | [@suricata@infosec.exchange](https://infosec.exchange/@suricata) | N
 | [GreHack](https://grehack.fr/) | Nov 15, 2024 | Grenoble :fr: | [@GrehackConf](https://twitter.com/GrehackConf) | N
 | [THOTCON](https://www.thotcon.org/) | May 2025 | Chicago (IL) :us: | [@THOTCON](https://twitter.com/THOTCON) | N
